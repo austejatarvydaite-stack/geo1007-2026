@@ -89,3 +89,5 @@ function registerGeoLocate(mapInstance) {
   mapInstance.on('locationerror', onLocationError);
 }
 registerGeoLocate(map)
+
+http://localhost:8080/geoserver/web/wicket/bookmarkable/org.geoserver.web.data.layer.LayerPage?40
